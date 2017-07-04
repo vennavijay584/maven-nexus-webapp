@@ -18,12 +18,6 @@
   <build>
     <finalName>maven-nexus-webapp</finalName>
   </build>
-  <repositories>
-        <repository>
-          <id>SunilAPP</id>
-          <url>http://35.184.210.74:8081/nexus/content/groups/SunilAPP/</url>
-        </repository>
-   </repositories>
    <distributionManagement>
         <snapshotRepository>
             <id>SuniAPPSnap</id>
